@@ -4,11 +4,11 @@ pygments: true
 
 markdown: kramdown
 
-title : Linusp's Blog
+title : Lixiaofei's Blog
 author :
-  name : Linusp
-  email : linusp1024@gmail.com
-  github : Linusp
+  name : Lixiaofei
+  email : lixiaofei3910@163.com
+  github : lixiaofei3910
 
 
 production_url : http://linusp.github.io
