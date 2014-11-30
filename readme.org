@@ -2,16 +2,16 @@
 
 ** 简介
    本模板copy自Linusp's blog
-   [[http://lixiaofei3910.github.io][Linusp's's Blog]]
+   [[http://linusp.github.io][Linusp's's Blog]]
    感谢原作者，让我这个一窍不通的门外汉，有了自己的博客……
    
    本人博客：
    [[http://lixiaofei3910.github.io][Lixiaofei's Blog]]
    
    
-（原作者的post日志过程：）
-** 写作流程
 
+** 写作流程
+   --原作者的post日志过程
    本人的这个博客，使用的是Jekyll，不过这里的"使用Jekyll"仅仅是指Jekyll的结构和模板，实际上我在本地对博客的写作和管理是使用Emacs + git。目前我的写作+发布流程是这样的：
    1. 打开Emacs
    2. C-c p 调用自定义函数，询问标题，这里的标题是生成文件用的，并不是文章的真正标题。该函数会用当前日期与这个输入连接起来作为文件名。例如，今天是2014年9月10日，我给的输入是：
