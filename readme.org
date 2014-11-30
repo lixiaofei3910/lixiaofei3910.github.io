@@ -1,18 +1,15 @@
 * Lixiaofei's Blog
 
 ** 简介
-   这是我在Github上搭建的静态博客的所有源代码。该博客用来记录个人生活点滴以及一些学习、工作的心得。
-
-   至于本人，目前是一个C++程序员，从事语音识别工作。热衷人工智能技术，并希望将来能在这个领域有所作为。闲暇时间，偶尔也写点小说，如果有兴趣，可以前往这里：
-
-   [[http://linusp.site44.com][Linusp's Novels]]
-
-   此外，我在这里：
-
-   [[http://linusp.gitcafe.com][Linup's Notes]]
-
-   记录了我对各个工具(Emacs、Octave、Latex)的使用笔记，编程语言(C/C++、Lisp、Python)的笔记，以及学习计算机科学(包括人工智能)时的笔记。
-
+   本模板copy自Linusp's blog
+   [[http://lixiaofei3910.github.io][Linusp's's Blog]]
+   感谢原作者，让我这个一窍不通的门外汉，有了自己的博客……
+   
+   本人博客：
+   [[http://lixiaofei3910.github.io][Lixiaofei's Blog]]
+   
+   
+（原作者的post日志过程：）
 ** 写作流程
 
    本人的这个博客，使用的是Jekyll，不过这里的"使用Jekyll"仅仅是指Jekyll的结构和模板，实际上我在本地对博客的写作和管理是使用Emacs + git。目前我的写作+发布流程是这样的：
